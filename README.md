@@ -1,16 +1,13 @@
 ## Welcome to my github! 👋
 
-<!--
-**gaybullayevumid/gaybullayevumid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know :computer:
+- **Frontend Programming**
+	- HTML, CSS and Javascript
+	- Bootstrap, SASS, Tailwindcss
+	- React
+- **Frontend Development**
+	- Python
+  - Django
+  - Django Rest Framework
+  - SQL, PostgreSQL
+  - aiogram
