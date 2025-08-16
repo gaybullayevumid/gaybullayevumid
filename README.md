@@ -22,13 +22,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
