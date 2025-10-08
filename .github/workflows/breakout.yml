@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 15 * * *"   # har kuni 15:00 UTC
+    - cron: "0 9 * * *"   # har kuni 15:00 UTC
   workflow_dispatch:       # qo'lda ishga tushirish
 
 jobs:
